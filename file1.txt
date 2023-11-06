@@ -1,0 +1,1 @@
+It is a sample file created inside My_Repo folder directly from Github page.
