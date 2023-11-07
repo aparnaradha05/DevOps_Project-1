@@ -1,7 +1,8 @@
 #! /bin/bash
 
 read -p "Enter the value of a: " a
-read -p "Enter the value of b: " b
+read -sp "Enter the value of b: " b
+echo
 read string1
 
 add=$((a + b))
